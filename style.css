@@ -1,0 +1,293 @@
+*
+{
+    padding: 0;
+    margin: 0;
+
+}
+
+/*--------------------------------Home Section------------------------------------*/
+#Home
+{
+    background-image: url(background.png);
+   background-repeat: no-repeat;
+    background-size: cover;
+}
+#home
+{
+   
+    color:white;
+
+}
+#text
+{
+    padding-top: 15%;
+}
+#home button{
+    border-radius: 40px;
+    width:auto;
+    color:white;
+}
+
+
+/*--------------------------------cardSection------------------------------------*/
+#Card
+{
+    padding-top: 5%;
+}
+#card h1
+{
+    font-weight: bold;
+    padding-bottom: 3%;
+}
+#cardtext
+{
+    padding-top: 0%;
+    padding-bottom: 4%;
+}
+#card img{
+    width:80%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+/*--------------------------------Why Digital Visiting card------------------------------------*/
+
+.digitalcard
+{
+    background-color: rgb(24,24,24);
+}
+.digitalcard img{
+    padding-top: 10%;
+}
+.mo{
+	border-radius:4px;
+	box-shadow: 1px 1px 8px;
+    padding-bottom: 2%;
+    color:whitesmoke;
+  
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: auto;
+}
+.mo1
+{
+    padding-top: 5%;
+}
+.digitalcard h1{
+    font-weight: bold;
+}
+#first-heading
+{
+    color:white;
+
+}
+#second-heading
+{
+    color:rgb(255, 191, 0);
+    
+}
+.firstblock
+{
+    padding-top: 1%;
+    background-color:white;
+    color: black;
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-left: 5%;
+    border-radius:10px;
+    margin-top: 5%;
+}
+.secondblock
+{
+    padding-top: 1%;
+    background-color:white;
+    color: black;
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-left: 5%;
+    border-radius:10px;
+    margin-top: 4%;
+}
+/*--------------------------------Digital Business Card Features------------------------------------*/
+#heading
+{
+    margin-top: 5%;
+    font-weight: bold;
+   
+}
+#cardfeature
+{
+    color:rgb(255, 191, 0);
+    font-style: italic;
+}
+.feature
+{
+    margin-top: 4%;
+}
+#faphone
+{
+    background-color: white;
+    margin-top: 4%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    border-radius:4px;
+    box-shadow: 1px 1px 8px gray;
+   
+    color: darkblue;
+}
+#faphone i:first-child
+{
+    font-size: 35px;
+   
+}
+#faphone h4:nth-child(2)
+{
+    font-size:1.2rem;
+    padding-top: 3%;
+   
+}
+#fawhatsapp
+{
+    background-color: white;
+    margin-top: 4%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    border-radius:4px;
+    box-shadow: 1px 1px 8px gray;
+    color: darkblue;
+}
+#fawhatsapp i:first-child
+{
+    font-size: 35px;
+   
+}
+#fawhatsapp h4:nth-child(2)
+{
+    font-size: 1.2rem;
+    padding-top: 3%;
+  
+   
+}
+
+#facontact
+{
+    background-color: white;
+    margin-top: 4%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    border-radius:4px;
+    box-shadow: 1px 1px 8px gray;
+    color: darkblue;
+}
+#facontact i:first-child
+{
+    font-size: 35px;
+   
+}
+#facontact h4:nth-child(2)
+{
+    font-size: 1.2rem;
+    padding-top: 3%;
+   
+}
+
+#famap
+{
+    background-color: white;
+    margin-top: 4%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    border-radius:4px;
+    box-shadow: 1px 1px 8px gray;
+    color: darkblue;
+}
+#famap i:first-child
+{
+    font-size: 35px;
+   
+}
+#famap h4:nth-child(2)
+{
+    font-size: 1.2rem;
+    padding-top: 3%;
+   
+}
+img
+{
+    margin-top: 0%;
+    
+    
+}
+#dbcimg img
+{
+    width:80%;
+  
+}
+
+/*-------------------------------- Add video to your Digital Business Card------------------------------------*/
+
+#addvideo
+{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+     background-size: cover;
+     margin-top: 5%;
+     background-attachment: fixed;
+    padding-bottom: 5%;
+}
+
+.DBC h1{
+    color: white;
+    padding-top: 30%;position: relative;
+}
+.DBC h4{
+    color: white;
+}
+.DBC img{padding-top: 15%;}
+.xyz
+{
+   
+    background-color: white;
+}
+.xyz h1{
+    color: black;
+    font-weight: bold;
+    padding-top: 3%;
+}
+.xyz button{
+    border-radius: 40px;
+    width:10%;
+    color:white;
+    margin-top: 1%;
+    font-size: 100%;
+    margin-bottom: 2%;
+}
+#contact
+{
+    background-color: white;
+    margin-top: 4%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    background-color: rgba(255, 255, 255, 0.9);
+   font-weight: bold;
+}
+
+  
+  .form-box {
+    max-width: 500px;
+    margin: auto;
+    padding: 50px;
+    background: #ffffff;
+    border: 10px solid #f2f2f2;
+    font-weight: bold;
+
+  }
+  
+
+  
+  input, textarea {
+    width: 100%;
+  }
+  .contacttext h2{
+      padding-top: 10%;
+  }
